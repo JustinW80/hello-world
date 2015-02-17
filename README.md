@@ -7,3 +7,8 @@ Besides systems engineering, I also like
 * sailing
 * Nintendo
 * physics
+
+Education
+----------
+
+I studied engineering physics at [Cornell](http://www.cornell.edu) and systems engineering at the [University of Pennsylvania](http://www.upenn.edu).
